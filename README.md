@@ -1,7 +1,7 @@
  👋 Hi, I’m Hardman Guilherme <br>
  💻📖 Sou estudande de Desenvolvimento Web FullStack Js.
  
- <h2>🛠 tecnologias que estudo</h2>
+ <h2>🛠 Tecnologias que estudo</h2>
 <div style="display: inline_block">
   <img align="center" alt="Hardman-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hardman-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +19,8 @@
   
  <div align="left">
   <a href="https://github.com/HardmanGUI">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HardmanGUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HardmanGUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <br>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardmanGUI&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
